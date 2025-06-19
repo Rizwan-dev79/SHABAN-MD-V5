@@ -24,7 +24,7 @@ PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/jo5qpd.jpeg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "samhax ai ",
+BOT_NAME: process.env.BOT_NAME || "𓆰𝑆𝛥𝛭𝛨闩乂  𝖆𝖎  𓆪⁩",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "samhax-ai⁩",
 // type sticker pack name 
