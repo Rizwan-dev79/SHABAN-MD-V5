@@ -24,9 +24,9 @@ PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/jo5qpd.jpeg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "SAMHAX-AI",
+BOT_NAME: process.env.BOT_NAME || "𓆰𝑆𝛥𝛭𝛨闩乂  𝖆𝖎 𓆪⁩",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SAMHAX-AI⁩",
+STICKER_NAME: process.env.STICKER_NAME || "𓆰𝑆𝛥𝛭𝛨闩乂  𝖆𝖎𓆪⁩",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -38,7 +38,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "923287573267",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "𓆰𝞖𝞓𝞛𝙕𝞓𓆪",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© SAMHAX-ai is alive! 👾*",
+DESCRIPTION: process.env.DESCRIPTION || "*© 𓆰𝑆𝛥𝛭𝛨闩乂 𓆪⁩ ai is alive! 👾*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/1f6h2j.jpg",
 // add img for alive msg
