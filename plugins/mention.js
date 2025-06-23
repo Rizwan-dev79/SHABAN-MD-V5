@@ -1,3 +1,8 @@
+const { cmd } = require('../command');
+const os = require("os");
+const { runtime } = require('../lib/functions');
+const config = require('../config');
+
 bot(
   {
     pattern: 'mention ?(.*)',
