@@ -13,7 +13,7 @@ cmd({
 },
 async (conn, mek, m, { from, sender, reply }) => {
     try {
-        const status = ` *📡 SHABAN MD V5*
+        const status = ` *📡 𓆰𝑆𝛥𝛭𝛨闩乂  𝖆𝖎 𓆪⁩ is alive! 👾*
 
 ✅ *Status:* Active  
 👑 *Owner:* ${config.OWNER_NAME}  
@@ -34,8 +34,8 @@ ${config.DESCRIPTION}`;
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363358310754973@newsletter',
-                    newsletterName: 'MR-SHABAN⁴⁰',
+                     newsletterJid: '120363358310754973@newsletter',
+                    newsletterName: '𓆰𝑆𝛥𝛭𝛨闩乂 𝑇𝛯𝐶𝛨𓆪⁩',
                     serverMessageId: 143
                 }
             }
