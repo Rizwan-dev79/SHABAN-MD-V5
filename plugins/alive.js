@@ -27,7 +27,7 @@ __________________________________
 ${config.DESCRIPTION}`;
 
         await conn.sendMessage(from, {
-            image: { url: "https://i.ibb.co/nqRfh0SB/shaban-md.jpg" },
+            image: { url: "https://files.catbox.moe/1f6h2j.jpg" },
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
